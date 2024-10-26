@@ -1,0 +1,13 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.entity-list-containers {
+  display: flex;
+  align-items:center;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 32px;
+}

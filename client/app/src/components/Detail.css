@@ -1,0 +1,16 @@
+.form-container {
+    margin-top: 16px;
+    display: flex;
+    flex-direction: column;
+    max-width: 200px;
+    gap: 16px;
+}
+
+.button-group {
+    display: flex;
+    gap: 8px;
+
+    #delete {
+        background-color: rgb(75, 0, 0);
+    }
+}
